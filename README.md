@@ -2,7 +2,7 @@
 
 **Room:** [Shells Overview — TryHackMe](https://tryhackme.com/room/shellsoverview)  
 **Status:** ✅ Completed  
-**Date:** *06 June 2025* 
+**Date:** *07 June 2025* 
 
 ### 🎯 Objective
 Learn about and practise using different types of shells in cyber security, including reverse shells, bind shells, and web shells. The focus was on understanding how each type works, how to deploy them manually, and how attackers use them in real-world scenarios.
